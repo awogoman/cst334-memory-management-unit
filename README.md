@@ -1,7 +1,7 @@
 # Virtual Memory Management Unit (MMU) — C
 
 **Course:** CST 334 — Operating Systems  
-**Project:** Programming Assignment 4, *Let's Build an MMU!*  
+**Project:** Programming Assignment 4 
 **Language:** C
 
 ## Overview
